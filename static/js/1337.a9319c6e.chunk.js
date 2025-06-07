@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwaifu=self.webpackChunkwaifu||[]).push([[1337],{31337:(e,n,a)=>{a.d(n,{Ub:()=>r});var t=a(65043);function r(e){const n=t.useCallback((n=>{const a=window.matchMedia(e);return a.addEventListener("change",n),()=>{a.removeEventListener("change",n)}}),[e]);return t.useSyncExternalStore(n,(()=>window.matchMedia(e).matches),(()=>{throw Error("useMediaQuery is a client-only hook")}))}}}]);
+//# sourceMappingURL=1337.a9319c6e.chunk.js.map

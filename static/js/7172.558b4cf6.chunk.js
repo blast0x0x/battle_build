@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwaifu=self.webpackChunkwaifu||[]).push([[7172],{87172:(u,a,e)=>{e.r(a),e.d(a,{default:()=>f.n});var f=e(96851)}}]);
